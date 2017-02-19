@@ -1,0 +1,1 @@
+Vacay emails sent with markdown using amazon ses (https://github.com/aheckmann/node-ses)
